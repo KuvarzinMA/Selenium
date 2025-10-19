@@ -1,2 +1,2 @@
-# Selenium
-zdarova
+# stepik_course_final_work
+Репозиторий для итогового домашнего задания по курсус "Автоматизация тестирования с помощью Selenium и Python".
